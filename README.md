@@ -2,7 +2,8 @@
 Creating a Virtual Assistance using python
 
 ## How to Run  
-git clone https://github.com/VinayVeerappaji/My-Virtual-Assitance.git    
+git clone https://github.com/VinayVeerappaji/My-Virtual-Assitance.git   
+`python application.py`
 
 ## Packages to be installed
 
